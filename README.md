@@ -1,5 +1,19 @@
-### Hi there 👋
+<h1 align='center'>Hi there 👋,I'm Sambit Pani </h1>
+<h3 align="center">A passionate Data Science aspirant </h3>
 
+- 🔭 I’m currently focusing on Data Science job roles.
+
+- 🌱 I’m currently learning on hands on practice end to end projects on ML,DL and AI.
+
+- 👯 I’m looking to collaborate on **ML,EDA and DL**.
+
+- 🤔 I’m looking for help with end to end projects.
+
+- 💬 Ask me about 
+
+- 📫 How to reach me: ...
+
+- ⚡ Fun fact: ...
 <!--
 **sambitpani-ds/sambitpani-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
